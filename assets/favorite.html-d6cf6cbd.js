@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as r}from"./app-312e0c0c.js";const a={};function c(n,_){return t(),o("div",null,[r(" markdownlint-disable ")])}const s=e(a,[["render",c],["__file","favorite.html.vue"]]);export{s as default};
